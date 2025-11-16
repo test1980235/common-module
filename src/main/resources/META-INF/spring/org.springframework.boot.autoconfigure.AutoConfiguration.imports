@@ -1,0 +1,3 @@
+com.smartlogis.common.config.CommonConfig
+com.smartlogis.common.config.CommonSecurityConfig
+com.smartlogis.common.config.JpaAuditingConfig
